@@ -1,4 +1,4 @@
-# unlockdb-unlocker
+# Unlockdb Unlocker
 Takes the unlockdb.xml from the `data\ui` directory of Halo MCC and unlocks everything, even the unlisted items.
 > The game version shouldn't matter unless 343 does some tomfoolery
 
